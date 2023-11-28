@@ -1,9 +1,11 @@
+/* styles.css */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #333;
+    background-color: #333; /* Cinza escuro */
 }
 
 header {
@@ -11,6 +13,7 @@ header {
     color: #fff;
     text-align: center;
     padding: 1em;
+    border-bottom: 2px solid #fff; /* Adiciona uma borda inferior branca */
 }
 
 main {
