@@ -9,6 +9,7 @@ body {
     background-size: cover; /* Garante que a imagem cubra todo o elemento body */
     background-position: center; /* Centraliza a imagem no elemento body */
     color: #fff; 
+}
 
 header {
     background-color: #333;
@@ -31,4 +32,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
