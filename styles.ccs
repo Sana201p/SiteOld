@@ -5,15 +5,17 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #333; /* Cinza escuro */
-}
+    background-image: url('background.jpg'); /* Substitua 'background.jpg' pelo nome da sua imagem */
+    background-size: cover; /* Garante que a imagem cubra todo o elemento body */
+    background-position: center; /* Centraliza a imagem no elemento body */
+    color: #fff; 
 
 header {
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 1em;
-    border-bottom: 2px solid #fff; /* Adiciona uma borda inferior branca */
+    border-bottom: 2px solid #fff;
 }
 
 main {
@@ -29,3 +31,4 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
