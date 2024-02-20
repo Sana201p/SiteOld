@@ -5,7 +5,7 @@ estou aprendendo a fazer um site, do zero
  é um site em html bem simples, fiz na inteção de hospedar aqui no github
 
  Instalação:
- Não precisa ser instalado, https://sana201p.github.io/Sitzin.js
+ Não precisa ser instalado, https://sana201p.github.io/SiteOld
 
  Uso: 
  Tentar fazer uma site aonde pode ser feito login, e amazenar as credencias 
